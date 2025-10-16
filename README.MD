@@ -12,8 +12,6 @@
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo" />
     <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
     <img src="https://cdn.simpleicons.org/sass/CC6699" height="60" alt="sass logo" />
 </div>
