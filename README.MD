@@ -7,6 +7,7 @@
 
 <h3 align="left">I code with</h3>
 
+<br/>
 
 <div style="display: flex; justify-content: left; flex-wrap: no-wrap; gap: 12px;">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
@@ -17,12 +18,14 @@
     <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
 </div>
 
+<br/>
 
 <div align="center">
     <img src="https://count.getloli.com/@:luyen-tran?theme=yousa-ling&padding=6&offset=3&scale=2&align=top&pixelated=1&darkmode=auto" alt="View Counter" />
 </div>
 
+<br/>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/luyen-tran/profile/refs/heads/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/luyen-tran/luyen-tran/refs/heads/output/snake.svg" alt="Snake animation" />
 </div>
