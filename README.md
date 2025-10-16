@@ -2,7 +2,7 @@
 
 ---
 
-<p align="left">My name is Luyen Tran and I'm a **Frontend Developer** from Vietnam.</p>
+<p align="left">My name is Luyen Tran and I'm a Frontend Developer from Vietnam.</p>
 
 
 <h3 align="left">I code with</h3>
