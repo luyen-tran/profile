@@ -5,7 +5,8 @@
 <p align="center">My name is Luyen Tran and I'm a **Frontend Developer** from Vietnam.</p>
 
 
-<h3 align="center">I code with</h3>
+<h3 align="left">I code with</h3>
+
 
 <div style="display: flex; justify-content: left; flex-wrap: no-wrap; gap: 12px;">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
@@ -16,9 +17,11 @@
     <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
 </div>
 
+
 <div align="center">
     <img src="https://count.getloli.com/@:luyen-tran?theme=yousa-ling&padding=6&offset=3&scale=2&align=top&pixelated=1&darkmode=auto" alt="View Counter" />
 </div>
+
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/luyen-tran/profile/refs/heads/output/snake.svg" alt="Snake animation" />
