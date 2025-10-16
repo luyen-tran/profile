@@ -2,12 +2,10 @@
 
 ---
 
-<p align="center">My name is Luyen Tran and I'm a **Frontend Developer** from Vietnam.</p>
+<p align="left">My name is Luyen Tran and I'm a **Frontend Developer** from Vietnam.</p>
 
 
 <h3 align="left">I code with</h3>
-
-<br/>
 
 <div style="display: flex; justify-content: left; flex-wrap: no-wrap; gap: 12px;">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
