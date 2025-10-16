@@ -8,7 +8,7 @@
 
 <h3 align="center">I code with</h3>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+<div style="display: flex; justify-content: left; flex-wrap: no-wrap; gap: 12px;">
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
