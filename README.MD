@@ -12,8 +12,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="right">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
